@@ -4,7 +4,7 @@ I'm a System and Network (tiny) Administrator. For more info please see my [pers
 
 ![trimstray's GitHub Stats](https://github-readme-stats.vercel.app/api?username=trimstray&show_icons=true&theme=vue)
 
-### Some of Blog Posts <sup>[PL]</sup>
+### Some of blog posts <sup>[PL]</sup>
 
 <!-- BLOG-POST-LIST:START -->
 - [Na jakim porcie działa ping?](https://blkcipher.pl/posts/2019-05-02-na_jakim_porcie_dziala_ping/)
