@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-I'm a System and Network (tiny) Administrator. For more info see my personal blog: [blkcipher.pl](https://blkcipher.pl).
+I'm a System and Network (tiny) Administrator. For more info please see my personal blog: [blkcipher.pl](https://blkcipher.pl).
 
 ### Some of my Github Stats
 
