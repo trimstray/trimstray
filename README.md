@@ -4,4 +4,4 @@ I'm a System and Network (tiny) Administrator. For more info see my personal blo
 
 ### Some of my Github Stats
 
-![trimstray's GitHub Stats](https://github-readme-stats.vercel.app/api?username=trimstray&show_icons=true)
+![trimstray's GitHub Stats](https://github-readme-stats.vercel.app/api?username=trimstray&show_icons=true&theme=vue)
