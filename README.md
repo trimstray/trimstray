@@ -7,9 +7,9 @@ I'm a System and Network Administrator.
 Some of my blog posts <sup>[PL]</sup>
 
 <!-- BLOG-POST-LIST:START -->
-- [Co jeśli kill -9 nie działa?](https://blkcipher.pl/posts/2017-07-02-co_jesli_kill_9_nie_dziala/)
 - [Czym jest i jakie znaczenie ma średnie obciążenie systemu?](https://blkcipher.pl/posts/2020-06-10-czym_jest_i_jakie_znaczenie_ma_srednie_obciazenie_systemu/)
 - [TLS: Jaki rozmiar powinien mieć klucz prywatny?](https://blkcipher.pl/posts/2020-03-06-tls-jaki_rozmiar_powinien_miec_klucz_prywatny/)
+- [Co jeśli kill -9 nie działa?](https://blkcipher.pl/posts/2017-07-02-co_jesli_kill_9_nie_dziala/)
 - [NGINX: Usprawnienie zamykania procesów roboczych](https://blkcipher.pl/posts/2017-01-02-nginx-usprawnienie_zamykania_procesow_roboczych/)
 - [Na jakim porcie działa ping?](https://blkcipher.pl/posts/2019-05-02-na_jakim_porcie_dziala_ping/)
 - [Negocjacja wersji TLS i pakiet szyfrów sygnalizacyjnych](https://blkcipher.pl/posts/2020-04-14-negocjacja_wersji_tls_i_pakiet_szyfrow_sygnalizacyjnych/)
