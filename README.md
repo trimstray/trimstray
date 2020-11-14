@@ -4,7 +4,7 @@ I'm a System and Network (tiny) Administrator.
 
 ![trimstray's GitHub Stats](https://github-readme-stats.vercel.app/api?username=trimstray&show_icons=true&theme=vue&icon_color=95A5A6&title_color=F1C40F&hide_border=1)
 
-Some of my blog posts <sup>[PL]</sup>
+Some of my blog posts <sup>[PL]</sup>:
 
 <!-- BLOG-POST-LIST:START -->
 - [NGINX: Usprawnienie zamykania procesów roboczych](https://blkcipher.pl/posts/2017-01-02-nginx-usprawnienie_zamykania_procesow_roboczych/)
