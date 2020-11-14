@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭 I'm a System and Network (tiny) Administrator. I post my ongoing research at https://blkcipher.pl.
+🔭 I'm a System and Network (tiny) Administrator. Come to my personal blog: [blkcipher.pl](https://blkcipher.pl).
 
-## Some of my Github Stats
+### Some of my Github Stats
 
-![trimstray github stats](https://github-readme-stats.vercel.app/api?username=trimstray&show_icons=true)
+![trimstray's GitHub Stats](https://github-readme-stats.vercel.app/api?username=trimstray&show_icons=true)
