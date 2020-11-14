@@ -2,7 +2,7 @@
 
 I'm a System and Network (tiny) Administrator. For more info please see my [personal blog](https://blkcipher.pl).
 
-![trimstray's GitHub Stats](https://github-readme-stats.vercel.app/api?username=trimstray&show_icons=true&theme=vue&icon_color=7FFFD4&title_color=FFD700&hide_border=1)
+![trimstray's GitHub Stats](https://github-readme-stats.vercel.app/api?username=trimstray&show_icons=true&theme=vue&icon_color=95A5A6&title_color=F1C40F&hide_border=1)
 
 ### Some of blog posts <sup>[PL]</sup>
 
