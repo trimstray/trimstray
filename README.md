@@ -2,8 +2,6 @@
 
 I'm a System and Network Administrator.
 
-<a href="https://jerrygamblin.com/"><img alt="nice hacker logo" src="https://media.giphy.com/media/UqxVRm1IaaIGk/giphy.gif" align="right" height="185" weight="150" /></a>
-
 ![trimstray's GitHub Stats](https://github-readme-stats.vercel.app/api?username=trimstray&show_icons=true&theme=vue&icon_color=95A5A6&title_color=F1C40F&hide_border=1)
 
 Some of my blog posts <sup>[PL]</sup>
