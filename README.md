@@ -11,6 +11,6 @@ Some of my blog posts <sup>[PL]</sup>
 - [TLS: Jaki rozmiar powinien mieć klucz prywatny?](https://blkcipher.pl/posts/2020-03-06-tls-jaki_rozmiar_powinien_miec_klucz_prywatny/)
 - [Co jeśli kill -9 nie działa?](https://blkcipher.pl/posts/2017-07-02-co_jesli_kill_9_nie_dziala/)
 - [NGINX: Usprawnienie zamykania procesów roboczych](https://blkcipher.pl/posts/2017-01-02-nginx-usprawnienie_zamykania_procesow_roboczych/)
-- [Na jakim porcie działa ping?](https://blkcipher.pl/posts/2019-05-02-na_jakim_porcie_dziala_ping/)
+- [Dlaczego pamięć SWAP jest nadal istotna?](https://blkcipher.pl/posts/2020-05-11-dlaczego_pamiec_swap_jest_nadal_istotna/)
 - [Negocjacja wersji TLS i pakiet szyfrów sygnalizacyjnych](https://blkcipher.pl/posts/2020-04-14-negocjacja_wersji_tls_i_pakiet_szyfrow_sygnalizacyjnych/)
 <!-- BLOG-POST-LIST:END -->
